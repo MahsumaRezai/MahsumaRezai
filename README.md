@@ -7,7 +7,6 @@ I'm Masoumeh Rezai, frontend developer! I live in Afghanistan.<br>
 ## Where to find me: 
  My Twitter : https://twitter.com/MahsumaRezai <br>
  My Gmail :  mahsuma.rezai8@gmail.com <br>
- ![image](https://user-images.githubusercontent.com/110189253/222911906-ce2fb909-2207-47a8-bb61-6a801f3549e6.png)
 
 
 
