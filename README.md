@@ -1,6 +1,7 @@
 #  Hi, nice to meet you 👋 
 ## Welcome to my page! <br>
-I'm Masoumeh Rezai, frontend developer! I live in Afghanistan. <br>
+I'm Masoumeh Rezai, frontend developer! I live in Afghanistan. ![image](https://user-images.githubusercontent.com/110189253/222908855-34b1397d-ff1d-46e2-99b1-e1caf85f3aab.png)<br>
+
 -  ⚡  I'm Frontend Developer <br>
 - 😄  I’m currently working on with JavaScript <br>
 - 💬 Ask me ababout anything, I am happy to help <br>
