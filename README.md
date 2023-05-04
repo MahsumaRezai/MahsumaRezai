@@ -2,7 +2,7 @@
 ## Welcome to my page! <br>
 I'm Masoumeh Rezai, frontend developer! I live in Afghanistan.<br>
 -  ⚡  I'm Frontend Developer <br>
-- 😄  I’m currently working on with JavaScript  and WordPress <br>
+- 😄  I’m currently working on with JavaScript  and React js <br>
 - 💬 Ask me about anything, I am happy to help <br>
 ## Where to find me: 
  My Twitter : https://twitter.com/MahsumaRezai <br>
