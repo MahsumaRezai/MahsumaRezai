@@ -1,7 +1,7 @@
 #  Hi, nice to meet you 👋 
 ## Welcome to my page! <br>
 I'm Masoumeh Rezai, frontend developer! I live in Afghanistan.<br>
--  ⚡  I'm Frontend Developer and Coding is my life <br>
+-  ⚡  I'm Front-End Developer and Coding is my life <br>
 -  ⚡  I'm  a JavaScript developer <br>
 - 😄  I’m currently working on with React js and Node js  <br>
 - 💬 Ask me about anything, I am happy to help <br>
