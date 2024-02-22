@@ -2,7 +2,7 @@
 ## Welcome to my page! <br>
 I'm Masoumeh Rezai, frontend developer! I live in Afghanistan.<br>
 -  ⚡  I'm Front-End Developer and Coding is my life  <br>
-- https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJmejZuOXp6Nm1sMThpcGdndzF5Mnp2NWhhcTh2NnFmNGdlYTJxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AKjT5kDZMK4wsPXJPk/giphy.gif><br>
+- https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJmejZuOXp6Nm1sMThpcGdndzF5Mnp2NWhhcTh2NnFmNGdlYTJxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AKjT5kDZMK4wsPXJPk/giphy.gif<br>
 -  ⚡  I'm  a JavaScript developer <br>
 - 😄  I’m currently working on with React js , Node js, TypeScript and  Next js <br>
 - 💬 Ask me about anything, I am happy to help <br>
