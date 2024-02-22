@@ -2,15 +2,16 @@
 ## Welcome to my page! <br>
 I'm Masoumeh Rezai, frontend developer! I live in Afghanistan.<br>
 -  ⚡  I'm Front-End Developer and Coding is my life  <br>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY28zaG03MWtrOGloemlsZ3RjNHlmNDdrYjFlbmlkNWZ2bG5pZW0wcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="100"/>
-</div>
 -  ⚡  I'm  a JavaScript developer <br>
 - 😄  I’m currently working on with React js , Node js, TypeScript and  Next js <br>
 - 💬 Ask me about anything, I am happy to help <br>
 ## Where to find me: 
  My Twitter : https://twitter.com/MahsumaRezai <br>
  My Gmail :  mahsuma.rezai8@gmail.com <br>
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY28zaG03MWtrOGloemlsZ3RjNHlmNDdrYjFlbmlkNWZ2bG5pZW0wcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="100"/>
+</div>
+
 
 
 
