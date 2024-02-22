@@ -8,6 +8,7 @@ I'm Masoumeh Rezai, frontend developer! I live in Afghanistan.<br>
 ## Where to find me: 
  My Twitter : https://twitter.com/MahsumaRezai <br>
  My Gmail :  mahsuma.rezai8@gmail.com <br>
+ <div id="badges">
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY28zaG03MWtrOGloemlsZ3RjNHlmNDdrYjFlbmlkNWZ2bG5pZW0wcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="200"/>
 </div>
@@ -16,6 +17,7 @@ I'm Masoumeh Rezai, frontend developer! I live in Afghanistan.<br>
 </div>
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM28zZ3dyOHE1ZzVqMnU0ajdzdXB4ejRiZWtuMzR0Y255dzE4Y3VrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RN8FdaB6T1bkkI5n4I/giphy.gif" width="200"/>
+</div>
 </div>
 
 
