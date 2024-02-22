@@ -2,6 +2,9 @@
 ## Welcome to my page! <br>
 I'm Masoumeh Rezai, frontend developer! I live in Afghanistan.<br>
 -  ⚡  I'm Front-End Developer and Coding is my life  <br>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 -  ⚡  I'm  a JavaScript developer <br>
 - 😄  I’m currently working on with React js , Node js, TypeScript and  Next js <br>
 - 💬 Ask me about anything, I am happy to help <br>
