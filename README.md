@@ -20,7 +20,10 @@ I'm Masoumeh Rezai, frontend developer! I live in Afghanistan.<br>
 </div>
 </div>
 
-
+.container {
+    display: flex;
+   
+  }
 
 
 
