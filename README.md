@@ -14,7 +14,6 @@ I'm Masoumeh Rezai, frontend developer! I live in Afghanistan.<br>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY28zaG03MWtrOGloemlsZ3RjNHlmNDdrYjFlbmlkNWZ2bG5pZW0wcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="200"/>
 </div>
 
-</div>
 
 
 
